@@ -1,4 +1,4 @@
-public class Main {
+public class SelectionSort {
 
     /**Selection Sort -> select one element from give array and compare with all other element and sort
      *Time Complexity -> O(n²)
